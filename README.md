@@ -1,4 +1,7 @@
 # All-Chapter-Labs
+Devon Hajdik
+COSC 2436
+
 Contains all files for the chapter labs.
 ├── README.md                  
 ├── CH01/
